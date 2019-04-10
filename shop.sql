@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.6.29, for Linux (x86_64)
+﻿-- MySQL dump 10.13  Distrib 5.6.29, for Linux (x86_64)
 --
 -- Host: localhost    Database: shop
 -- ------------------------------------------------------
@@ -17,7 +17,6 @@
 
 --
 
-te
 -- Table structure for table `address`
 --
 
